@@ -132,3 +132,6 @@ document.getElementById('addItem').onclick = async (event) => {
 }
 
 //================== Nghiệp vụ xoá dữ liệu =================
+let searchTask = task =>{
+    console.log(task);
+}
